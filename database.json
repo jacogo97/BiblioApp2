@@ -1,0 +1,36 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Las 48 leyes del poder",
+            "autor": "Robert Greene",
+            "editorial": "Oceano de Colombia",
+            "inventario": 34,
+            "precio": 91000
+        },
+        {
+            "id": 2,
+            "nombre": "Solenoide",
+            "autor": "Mirta Cartarescu",
+            "editorial": "Impedimenta",
+            "inventario": 20,
+            "precio": 129000
+        },
+        {
+            "id": 3,
+            "nombre": "Think Again",
+            "autor": "Adam Grant",
+            "editorial": "Planeta",
+            "inventario": 18,
+            "precio": 69000
+        },
+        {
+            "id": 4,
+            "nombre": "El mundo está en venta",
+            "autor": "Javier Blas",
+            "editorial": "Planeta",
+            "inventario": 15,
+            "precio": 89000
+        }
+    ]
+}

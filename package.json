@@ -1,0 +1,24 @@
+{
+  "name": "biblioapp2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch database.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacogo97/BiblioApp2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacogo97/BiblioApp2/issues"
+  },
+  "homepage": "https://github.com/jacogo97/BiblioApp2#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "json-server": "^0.17.1"
+  }
+}
