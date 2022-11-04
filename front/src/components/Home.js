@@ -17,7 +17,7 @@ export const Home = () => {
           <img src="https://hotmart.s3.amazonaws.com/product_contents/dd226ada-8df7-439e-8d61-d3f688b9ab49/libros2_2118499843.jpg" class="card-img-top" alt="imagen"></img>
           <div className="card-body">
             <p className="card-text">Aquí puede ver la lista de productos.</p>
-            <Link to="/Productos" class="btn btn-success">Productos</Link>
+            <Link to="/Productos" className="btn btn-success">Productos</Link>
           </div>
         </div>
 
@@ -27,7 +27,7 @@ export const Home = () => {
           <img src="https://hotmart.s3.amazonaws.com/product_contents/dd226ada-8df7-439e-8d61-d3f688b9ab49/libros2_2118499843.jpg" class="card-img-top" alt="imagen"></img>
           <div className="card-body">
             <p className="card-text">Aquí puede crear un producto nuevo.</p>
-            <Link to="/crearProducto" class="btn btn-success">Crear Producto</Link>
+            <Link to="/crearProducto" className="btn btn-success">Crear Producto</Link>
           </div>
         </div>
 

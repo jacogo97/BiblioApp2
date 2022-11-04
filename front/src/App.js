@@ -8,6 +8,7 @@ import Ventas from './components/Ventas';
 import Carrito from './components/Carrito';
 import Productos from './components/layout/Productos';
 import CrearProducto from './components/layout/CrearProducto';
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 //SPA
 function App() {
@@ -21,7 +22,7 @@ function App() {
             <Route path="/Home " element={<Home />}/>
             <Route path="/Ventas" element={<Ventas />}/>
             <Route path="/Carrito" element={<Carrito />}/>
-            <Route path='/productos' element={<Productos />}/>
+            <Route path='/Productos' element={<Productos />}/>
             <Route path='/CrearProducto' element={<CrearProducto />}/>
 
           </Routes>
